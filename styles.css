@@ -22,8 +22,8 @@ body {
 .btn {
   margin: 25px;
   display: inline-block;
-  height: 50%;
-  width: 40%;
+  height: 200px;
+  width: 200px;
   border: 10px solid black;
   border-radius: 20%;
   cursor: pointer;
