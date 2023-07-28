@@ -60,6 +60,7 @@ body {
   justify-content: space-around;
   height: 30vh;
   width: 100%;
+  margin: 50px;
 }
 #start{
   width: 20vmin;
